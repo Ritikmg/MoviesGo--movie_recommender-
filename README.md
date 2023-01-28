@@ -63,7 +63,7 @@ https://www.omdbapi.com/
 
 
 ## Team Members -
-Rohit Raj , Ritik Goyal and Anuj Dhanger
+Ritik Goyal , Rohit Raj and Anuj Dhanger
 ## Acknowledgements
 
  - AlgoZenith Internal Hackathon
