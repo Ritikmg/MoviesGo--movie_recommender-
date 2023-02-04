@@ -20,7 +20,7 @@ MoviesGo is a Graphical User Interface that recommends movies to users based on 
 
 ## How to run MoviesGo on your PC?
 
-Download the zip folder from github-
+Download the zip folder from github- and open it in any python IDE
 
 ```bash
   https://github.com/Ritikmg/MoviesGo--movie_recommender-.git
